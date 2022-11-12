@@ -1,0 +1,28 @@
+html,
+body{
+    height: 100%;
+    box-sizing: border-box;
+}
+.gradiant{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(24,17,255,1) 0%, rgba(87,0,228,1) 49%);
+}
+.feature ul{
+    list-style-type: none;
+}
+.feature ul li{
+    padding-left: 2rem;
+    background-image: url(/img/img/check.svg);
+    background-repeat: no-repeat;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+}
+.icone-img{
+    height: 3rem;
+    width: 3rem;
+    background-color: 
+    #2b0cf7;
+}
+.galery{
+    background-color: whitesmoke;
+}
